@@ -12,4 +12,9 @@ namespace Csharp
         {
         }
     }
+
+    class Cust
+    { 
+    
+    }
 }
